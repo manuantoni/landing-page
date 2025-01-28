@@ -1,11 +1,1 @@
-# landing-page
-# landing-page
-# landing-page
-# landing-page
-# landing-page
-# landing-page
-# landing-page
-# landing-page
-# landing-page
-# landing-page
-# landing-page
+# Meu primeiro projeto no git ˆ_ˆ
